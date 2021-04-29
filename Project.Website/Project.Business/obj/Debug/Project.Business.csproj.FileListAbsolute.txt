@@ -1,0 +1,2 @@
+F:\Web Tabanı\Ecommerce Website\Project.Website\Project.Business\obj\Debug\Project.Business.csprojAssemblyReference.cache
+F:\Web Tabanı\Ecommerce Website\Project.Website\Project.Business\obj\Debug\Project.Business.csproj.CoreCompileInputs.cache
