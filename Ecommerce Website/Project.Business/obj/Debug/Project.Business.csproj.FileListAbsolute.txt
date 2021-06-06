@@ -1,0 +1,15 @@
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.Business.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.Business.pdb
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\obj\Debug\Project.Business.csprojAssemblyReference.cache
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\obj\Debug\Project.Business.csproj.CoreCompileInputs.cache
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\obj\Debug\Project.Business.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\obj\Debug\Project.Business.pdb
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.Business.dll.config
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\EntityFramework.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.DataAccess.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.DataAccess.pdb
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\Project.DataAccess.dll.config
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\EntityFramework.xml
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.Business\obj\Debug\Project.Business.csproj.CopyComplete
