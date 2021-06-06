@@ -1,0 +1,12 @@
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\Project.DataAccess.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\Project.DataAccess.pdb
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\obj\Debug\Project.DataAccess.csprojAssemblyReference.cache
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\obj\Debug\Project.DataAccess.csproj.CoreCompileInputs.cache
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\obj\Debug\Project.DataAccess.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\obj\Debug\Project.DataAccess.pdb
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\Project.DataAccess.dll.config
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\EntityFramework.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\EntityFramework.xml
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Web Tabanı\Ecommerce Website Project\Ecommerce Website\Project.DataAccess\obj\Debug\Project.DataAccess.csproj.CopyComplete
